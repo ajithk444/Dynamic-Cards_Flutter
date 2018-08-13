@@ -1,8 +1,6 @@
 # first_app
 
-A new Flutter project.
+A Flutter project to create or remove Cards dynamically.
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+
