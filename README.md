@@ -3,6 +3,8 @@
 A Flutter project to create or remove Cards dynamically.
 
 
-/assests/dynamicCard.png
+# Screenshots
+
+ <img height='400' width='600' src='assets/Flutter_DynamicCards.png' />
 
 
