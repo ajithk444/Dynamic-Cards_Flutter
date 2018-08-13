@@ -1,4 +1,4 @@
-# Dynamic Cards in flutter #Flutter Cards 
+# Dynamic Cards in flutter
 
 A Flutter project to create or remove Cards dynamically.
 
